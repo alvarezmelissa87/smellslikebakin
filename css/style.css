@@ -5,6 +5,10 @@ body {
 	background-repeat: no-repeat;
 }
 
+.resize {
+	width: 300px;
+	height: auto;
+}
 
 a {
 	color: #4FB69F;
