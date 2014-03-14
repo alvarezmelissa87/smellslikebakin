@@ -1,8 +1,10 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	color: #663300;
+	background-image: url('img/alejandroescamilla-book.jpg');
+	background-repeat: no-repeat;
 }
+
 
 a {
 	color: #4FB69F;
